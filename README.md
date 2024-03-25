@@ -13,6 +13,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 <p>This project aims to recognize human activities using smartphone sensor data, including accelerometers and gyroscopes. By analyzing this data, a machine learning model is developed to accurately classify activities like walking, running, sitting, and standing. Algorithms like KNN, SVM, Decision Tree and Random Forest are employed to achieve high accuracy and real-time performance. The project showcases the potential of machine learning in utilizing sensor data from everyday devices to enhance applications like fitness tracking, health monitoring, and gesture recognition, thereby improving user experiences.</p>
 
 <hr>
+
 ## Notebook - Table of Content
 <p>
 <h3>Importing necessary libraries</h3>
